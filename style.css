@@ -58,5 +58,5 @@ display: flex;
 border-radius: 40px 0 0 0;
 }
 .botao:last-child {
-border-radius: 40px 0 0 40;
+border-radius: 0 40px 0 0;
 }
